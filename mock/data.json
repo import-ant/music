@@ -1,0 +1,65 @@
+[{
+        "image": "../source/song_1.jpg",
+        "audioSrc": "../source/song_1.mp3",
+        "name": "My Sugar",
+        "album": "birth",
+        "singer": "白鹿",
+        "duration": 246,
+        "isLike": true
+    },
+    {
+        "image": "../source/song_2.jpg",
+        "audioSrc": "../source/song_2.mp3",
+        "name": "凤求凰",
+        "album": "凤求凰",
+        "singer": "白鹿",
+        "duration": 303,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_3.jpg",
+        "audioSrc": "../source/song_3.mp3",
+        "name": "青春舞曲",
+        "album": "百年",
+        "singer": "白鹿",
+        "duration": 202,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_4.jpg",
+        "audioSrc": "../source/song_4.mp3",
+        "name": "紫钗记",
+        "album": "玉楼春",
+        "singer": "白鹿",
+        "duration": 238,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_5.jpg",
+        "audioSrc": "../source/song_5.mp3",
+        "name": "江南恨",
+        "album": "凤求凰",
+        "singer": "白鹿",
+        "duration": 269,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_6.jpg",
+        "audioSrc": "../source/song_6.mp3",
+        "name": "入梦",
+        "album": "烈火军校",
+        "singer": "白鹿",
+        "duration": 219,
+        "isLike": false
+    },
+    {
+        "image": "../source/song_7.jpg",
+        "audioSrc": "../source/song_7.mp3",
+        "name": "世界上另一个我",
+        "album": "烈火军校",
+        "singer": "白鹿",
+        "duration": 123,
+        "isLike": false
+    }
+
+]
